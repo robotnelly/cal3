@@ -39,6 +39,13 @@ h2, p {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+section#galeria figure {
+    display: inline-block;
+    width: 30%;
+    border: 1px solid red;
+    margin: 1%;
+}
+
 #copyright {
     background-color: black;
 
