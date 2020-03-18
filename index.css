@@ -1,0 +1,13 @@
+h1, h2, p {
+    font-family: Helvetica;
+}
+
+#copyright {
+    background-color: black;
+
+}
+
+#copyright p{
+    color:white;
+    font-family: Helvetica;
+}
